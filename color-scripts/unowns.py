@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/bin/env python
 # -*- coding: UTF-8 -*-
 __author__ = 'actionless'
 
@@ -60,3 +60,4 @@ for mode in ['normal', 'bold']:
 
 # reset font:
 print("\033[0m")
+input("Press enter to exit ;)")
